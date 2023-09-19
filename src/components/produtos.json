@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Camisa HIGH",
+        "description": "Camiseta original",
+        "price": 120.0,
+        "imgUrl": "https://cdn.vnda.com.br/matrizskate/2023/04/13/21_4_4_425_Tee_Kidz_Black_NightGreen.jpg?v=1681431274"
+    },
+
+    {
+        "id": 2,
+        "name": "Shorts HIGH",
+        "description": "Shorts original",
+        "price": 90.0,
+        "imgUrl": "https://images.tcdn.com.br/img/img_prod/871975/shorts_high_company_fresh_black_green_sh032_06_5201_1_dba268f4256c65bcb5914b6ff601b286.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Five Panel HIGH",
+        "description": "Five Panel original",
+        "price": 80.0,
+        "imgUrl": "https://static.sessionstore.com.br/public/session/imagens/produtos/bone-high-five-panel-sport-azul-marinho-63e5a85fb86c3.jpg"
+    }
+]
