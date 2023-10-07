@@ -10,8 +10,8 @@ function App() {
   };
 
   useEffect(() => {
-    if(cart.length > 0) {
-      console.log('Produto')
+    if (cart.length > 0) {
+      console.log("Produto");
     }
   }, [cart]);
 
