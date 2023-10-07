@@ -10,8 +10,8 @@ function App() {
   };
 
   useEffect(() => {
-    if (cart.length > 0) {
-      console.log("Produto adicionado ao carrinho");
+    if(cart.length > 0) {
+      console.log('Produto')
     }
   }, [cart]);
 
